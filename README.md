@@ -6,13 +6,15 @@
 - <b> **Cutesy DOOM-Style Shooter (Team of 5)**  (Unity/C#)</b>
   - [Mirror Magica](https://github.com/lidiammp/ProjectAura)
   A 2.5D shooter inspired by DOOM, reimagined with a stylized, cute aesthetic.  
-  --🔗 [Repo](https://github.com/lidiammp/ProjectAura)--🎥 [Gameplay Video](https://www.youtube.com/watch?v=cS6AMaC4nSg&t=1s)--🕹️ [itch.io](https://gameheads.itch.io/mirror-magica) --
+  🔗 Repo: https://github.com/lidiammp/ProjectAura  
+  🎥 Gameplay Video: https://www.youtube.com/watch?v=cS6AMaC4nSg&t=1s  
+  🕹️ itch.io: https://gameheads.itch.io/mirror-magica  
 - <b>Full Stack Web App (React)</b>
   - [Tic tac toe](https://github.com/ZiKoundou/Tic-Tac-Toe-Web-App) <b>
 
 <h2>🔗 Other Links</h2>
 <!--- Portfolio: https://yourname.netlify.app  -->
-- Resume: PDF link    
+- Resume: PDF link  
 - itch.io: https://zikoundou.itch.io    
 <!--
 <h2> 🤳 Connect with me:</h2>
