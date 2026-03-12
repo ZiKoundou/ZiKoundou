@@ -4,7 +4,7 @@
 <h2>🎮 Featured Projects:</h2>
 
 - <b> **Cutesy DOOM-Style Shooter (Team of 5)**  (Unity/C#)</b>
-  - [Mirror Magica](https://github.com/lidiammp/ProjectAura)
+  - <b>[Mirror Magica](https://github.com/lidiammp/ProjectAura)</b>
    DOOM… but you hug the demons.
   🔗 Repo: https://github.com/lidiammp/ProjectAura  
   🎥 Gameplay Video: https://www.youtube.com/watch?v=cS6AMaC4nSg&t=1s  
