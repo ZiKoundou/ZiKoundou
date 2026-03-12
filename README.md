@@ -5,13 +5,16 @@
 
 - <b> **Cutesy DOOM-Style Shooter (Team of 5)**  (Unity/C#)</b>
   - [Mirror Magica](https://github.com/lidiammp/ProjectAura)
-  A 2.5D shooter inspired by DOOM, reimagined with a stylized, cute aesthetic.  
+   DOOM… but you hug the demons.
   🔗 Repo: https://github.com/lidiammp/ProjectAura  
   🎥 Gameplay Video: https://www.youtube.com/watch?v=cS6AMaC4nSg&t=1s  
   🕹️ itch.io: https://gameheads.itch.io/mirror-magica
   
-- <b>Full Stack Web App (React)</b>
-  - [Tic tac toe](https://github.com/ZiKoundou/Tic-Tac-Toe-Web-App) <b>
+- <b> **Top down roguelike (solo jam entry)** (Unity/C#)</b>
+  - [ClockOut](https://github.com/ZiKoundou/1-bit-jam) 
+   A top-down office brawler where paperwork fights back
+  🔗 Repo: https://github.com/ZiKoundou/1-bit-jam
+  🕹️ itch.io: https://zikoundou.itch.io
 
 <h2>🔗 Other Links</h2>
 
