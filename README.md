@@ -3,18 +3,17 @@
 
 <h2>🎮 Featured Projects:</h2>
 
-- <b> **Cutesy DOOM-Style Shooter (Team of 5)**  (Unity/C#)</b>
-  - <b>[Mirror Magica](https://github.com/lidiammp/ProjectAura)</b>
-   DOOM… but you hug the demons.
-  🔗 Repo: https://github.com/lidiammp/ProjectAura  
+- <b> [Mirror Magica](https://github.com/lidiammp/ProjectAura) **DOOM… but you hug the demons.**</b> (Unity/C#)
+  - <b> Role: </b> Sole Programmer (Team of 6)
+  - <b> Features: </b>  
+  • Hug/“glory kill” system  
+  • Arena Combat  
+  • State Driven Enemy AI  
+  - <b> Links </b>   
+  🔗 Repo: https://github.com/lidiammp/ProjectAura   
   🎥 Gameplay Video: https://www.youtube.com/watch?v=cS6AMaC4nSg&t=1s  
   🕹️ itch.io: https://gameheads.itch.io/mirror-magica
-  
-- <b> **Top down roguelike (solo jam entry)** (Unity/C#)</b>
-  - [ClockOut](https://github.com/ZiKoundou/1-bit-jam) 
-   A top-down office brawler where paperwork fights back
-  🔗 Repo: https://github.com/ZiKoundou/1-bit-jam
-  🕹️ itch.io: https://zikoundou.itch.io
+
 
 <h2>🔗 Other Links</h2>
 
