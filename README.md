@@ -1,5 +1,5 @@
 <h1>Hello, I'm Zion!👋</h1>
-  Aspiring <a href="https://www.linkedin.com/in/zion-koundou/">Game Developer</a> focused on gameplay systems and Unity (C#)
+  <a href="https://www.linkedin.com/in/zion-koundou/">Game Developer</a> focused on gameplay systems and Unity (C#)
 
 <h2>🎮 Featured Projects:</h2>
 
